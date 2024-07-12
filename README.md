@@ -1,5 +1,5 @@
 # v
 
 ```
-wget https://github.com/daneshswara29/repo/main/addrepo && bash addrepo 
+wget raw.githubusercontent.com/daneshswara29/repo/main/addrepo && bash addrepo 
 ```
